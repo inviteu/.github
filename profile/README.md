@@ -5,7 +5,7 @@ Inviteu is a cutting-edge service that specializes in creating personalized, sty
 
 
 <!-- Contact information -->
-📫 Reach us: [inviteu.service@gmail.com]  
+📫 Reach us: inviteu.service@gmail.com
 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/inviteu)  
 
 <!-- Projects -->
